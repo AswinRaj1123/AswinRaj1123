@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AswinRaj1123
+- 👋 Hi, I’m AswinRaj
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning BE.Computer Science & Engineering
+- 🌱 I’m currently persuing BE.Computer Science & Engineering
 - 💞️ I’m looking to collaborate on new Projects
 - 📫 How to reach me - aswinraj868@gmail.com
 
