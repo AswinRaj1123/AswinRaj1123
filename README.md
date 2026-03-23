@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Pre-final year Computer Science student and Software Engineer skilled in Python, C/C++, and AI/ML, with hands-on experience in distributed systems, cloud computing, and full-stack development. Built a 99.6%-accurate LSTM-based intrusion detection model and scalable web apps handling terabyte-scale data. Passionate about solving complex challenges in machine learning, large-scale systems, and open-source technologies.
+Final year Computer Science student and Software Engineer skilled in Python, C/C++, Java, JavaScript and AI/ML, with hands-on experience in distributed systems, cloud computing, and full-stack development. Built a 99.6%-accurate LSTM-based intrusion detection model and scalable web apps handling terabyte-scale data. Passionate about solving complex challenges in machine learning, large-scale systems, and open-source technologies.
 
 ## 🎓 Education
 
